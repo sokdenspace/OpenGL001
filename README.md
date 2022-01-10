@@ -1,2 +1,2 @@
 # OpenGL001
-Learn OpenGL Computer Graphics 001.
+Learn Modern OpenGL Graphics Programming.
